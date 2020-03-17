@@ -1,0 +1,216 @@
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a621ef03606e969cd27c2d62f176e94eb332d403"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "07989921865c64eefb36549afa8f0c5443d3cbe6816070bb5040602216a2af6d"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.i686-linux-musl-cxx03.tar.gz"
+[[normaliz]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "281df15e5556b38267c419deb85628a4936893ff"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "8d9405adb89eecdb2657ca74fa071fbae228ed89bd896a5b404ac432b83ca918"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bba7b50f523d1606565c658a965c61c80ffae1a3"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "45ccdb540f6738faa36a6ea7f74ff50f97759f84b4f04a94b9df99c040a7fdc4"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.i686-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea8b6775235a03b55d6ee0cd5b987177aa50ee8a"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "e308ca5aebdcb6f63ef35816266e037363224dba1344169b42dfd677cfa67b7a"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3673e354da051c278f4d8a839105527345ec219a"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "9523c5d8c59f4d9a3e8c144a9c5b78fff87cf8bc99083dd3b39ceb2661943960"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecb2eeed22907551e80f491891c83c285a832221"
+os = "macos"
+
+    [[normaliz.download]]
+    sha256 = "554796138411241f500642904bf697742b94363ba976a5d1b86d939f595f3d6e"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-apple-darwin14-cxx03.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9209c42271a5433ead7f28974490a79c5a202633"
+os = "freebsd"
+
+    [[normaliz.download]]
+    sha256 = "4e2395f946396fc82442dc15d641cfd2bfeac6d4df5dbf095405058cbb04c1eb"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e89157f3a2c41633cdf89f1247b9b3e81bc7135"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "5fdbc00b81e9a17cf27fb0dfb4cd9b7441c3c383241d3d5e8e5ee20fc811d954"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04a8f855daa79bbaff280ea34b4c1a07ca32f5fa"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "147f88449d1dcdb40d47b013aa02337670c79ed0ff9fbf121ce32e5f93315adc"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d55ff98b0e022a610627b0c21d52dba8ba61779"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "3b98cb0e3e2e4b3d4b9833d54b0833806c42a2438c7af047c277f3844e2d9f38"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.arm-linux-gnueabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7a3c67342ef964b7de659fe9a5c023db2ce62f1f"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "618f4e6b6b28767c7945f1ae82165b1717b2848cc4ea9612867eb0998c1cf903"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd61d5b011ea97f76afcf478c07c2a1d935492d0"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "84bf559155c69583b3e4f144de4f26cff8d04b87fff7c21ba84eb3d32695efa1"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.aarch64-linux-musl-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eeb3af87ea485c4acc4f307ac959d2830bdd4e5e"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "01a465412dda9877c0a1f12dda6094045e7ad2cc51cc3dac137dcf88c804f45a"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.arm-linux-musleabihf-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8020b34042653a45a3d4d24aef4fea72a1a6af28"
+os = "macos"
+
+    [[normaliz.download]]
+    sha256 = "b2b7572c55b935e22c4dc7d5f3d70d8a822c0572878eec15df8fdbde5b82e044"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-apple-darwin14-cxx11.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5441eb98a82b7f2475adbf73d6d7b275b5129580"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b7edf17f816c9b2561dbd13d47fc4c377ed7e1f7b5f8bf6ab9d8899b2f406590"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "df7d7b934aceaf3ec68a6b639c820ffe47dd610c"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "c9f2eba57b4218ea98625d062a87217d4dc0e90b2c4383b275bff0f5e5ca0959"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.arm-linux-gnueabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a6a390fd3185304a1021193d28ce6b88c6da443"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "203f7afd45f97d3031f992141158cca63558f83f9bca597f70b4de50bc3fe5cb"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.i686-linux-gnu-cxx11.tar.gz"
+[[normaliz]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75c8c4e2751ae4cfdfe4238a08e3abbff9d44feb"
+libc = "glibc"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "417e0165654a460e1e283e09508a221e60889ee813d1ff29683635f14e6032cb"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.i686-linux-gnu-cxx03.tar.gz"
+[[normaliz]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d23f0b019251119ef394c2dbaac67daf588d9d4"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "b37f904b25383c4d9429031c9d8aece4308da52f2f0ca2afedb5547f07942755"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.arm-linux-musleabihf-cxx03.tar.gz"
+[[normaliz]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57e0eac54f21fce178493d6e4e3ea3808e7396ae"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "7994421dc425271640839acb8f72e2c5f705bb79fd47603321e91669e78034e2"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.aarch64-linux-musl-cxx11.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dae158930186a53c31bfde63361da7f9cb395bd0"
+libc = "musl"
+os = "linux"
+
+    [[normaliz.download]]
+    sha256 = "6d3e0cad32962b579a097e47368cfcf5ffbc4d4919536ae54126a5ed76a1d9c1"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-linux-musl-cxx03.tar.gz"
+[[normaliz]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "802fe9d969d15bd09799e193a468cdbb2b4cf678"
+os = "freebsd"
+
+    [[normaliz.download]]
+    sha256 = "0b90ae237f1e90e7e43a89b0db021c6be7c00798730242b389559dddc72344b4"
+    url = "https://github.com/benlorenz/normaliz_jll.jl/releases/download/normaliz-v3.8.4+0/normaliz.v3.8.4.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
